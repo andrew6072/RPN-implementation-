@@ -1,0 +1,4 @@
+﻿  RPN_implementation.cpp
+C:\Users\1235455\OneDrive\Desktop\RPN implementation\RPN_implementation\RPN_implementation.cpp(207,27): error C2079: 's' uses undefined class 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\1235455\OneDrive\Desktop\RPN implementation\RPN_implementation\RPN_implementation.cpp(208,24): error C2297: '<<': illegal, right operand has type 'double'
+C:\Users\1235455\OneDrive\Desktop\RPN implementation\RPN_implementation\RPN_implementation.cpp(208,15): warning C4552: '<<': result of expression not used
